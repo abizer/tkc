@@ -1,6 +1,6 @@
 [project]
 name = "tkc"
-version = "0.1.0"
+version = "0.1.1"
 description = "wc for tokens"
 readme = "README.md"
 authors = [{ name = "Abizer Lokhandwala", email = "abizer@abizer.me" }]
