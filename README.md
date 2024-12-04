@@ -1,4 +1,4 @@
-# tkc - Token Counter
+# tkc
 
 wc but for tokens
 
